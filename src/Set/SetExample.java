@@ -11,7 +11,7 @@ public class SetExample {
 		 * mesma de entrada; Aceitam valores do tipo null; Não é sincronizada
 		 * (thread-safe); Velocidade no acesso, leitura e modificação de dados;
 		 * 
-		 * ------------------------------------------------------------------- TreeSet
+		 * ------------------------------------------------------------------- 
 		 * Treeset -> Os elementos inseridos dentro desse tipo de conjunto devem implementar a
 		 * interface Comparable; A ordenação é por elementos únicos; Não suporta objetos
 		 * nulos, se caso um elemento ser nulo é lançado a exceção NullPointerException;
